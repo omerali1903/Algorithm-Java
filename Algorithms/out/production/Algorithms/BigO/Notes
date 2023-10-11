@@ -1,0 +1,14 @@
+
+**--> Time Complexity Nedir ??
+
+     Time complexity bir algoritmanin calismasi icin gerekli olan suredir.
+     Ancak burdaki sure, saniyeleri hesaplayarak degil, kac tane islem
+     gerceklestirildigine gore hesaplanmaktadir.Uygulama tarafindan gerceklestirilen
+     islem sayisi, veri setinin buyuklugune ve o veri setinin elemanlarina,
+     sirasina gore belirlenir.
+
+
+ **--> Big O Notation( O(n) ) NEDIR ??
+
+        Big O notation, bir algoritmanin performansini veya time complexity'sini
+        hesaplamak icin kullanilir.

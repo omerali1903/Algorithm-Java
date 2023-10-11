@@ -1,0 +1,4 @@
+
+*-->Time Complexity --> O(n^2) -- Selection sort ve Insertion sorttan daha yavastir.
+
+*-->Memory Usage -->1 variable (temp'den dolayi)

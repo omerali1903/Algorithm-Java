@@ -1,0 +1,10 @@
+
+Mantik : verilen dizinin herhangi bir yerinden pivot secilir, pivottan buyuk olan elemanlari sagina
+         kucuk olanlari solunca geciriyoruz.Bu islemi yaptiktan sonra pivot elemanin solundaki ve sagindaki elemanlardan
+         ayri ayri pivot elemanlar secilir ve o dizilerde kendi icerisinde ayni islemler yapilir.
+
+Time Complexity --> en kotu O(n^2) , ortalamada 0(nlogn)
+                    bu sayede performans olarak en hizlilarindan biridir diyebiliriz
+
+
+Memory Usage --> en kotu durumda O(n)
